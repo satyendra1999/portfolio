@@ -1,0 +1,21 @@
+body{
+    background-image: url("skilll bg.jpg");
+    background-size: 1300px;
+}
+.home {
+   
+    /* align-items: center; */
+    padding: 70px 15% 0;
+
+}
+h3{
+    /* text-align: center; */
+    /* margin-top: 0%; */
+    color: antiquewhite;
+    
+    
+}
+ul{
+    /* text-align: center; */
+    color: antiquewhite;
+}

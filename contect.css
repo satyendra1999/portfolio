@@ -1,0 +1,13 @@
+body{
+    background-image: url("contect bg.jpeg");
+    background-size: 1100px;
+}
+section{
+    padding: 300px 30% 0;
+}
+h2,h3{
+    color: #dec71b;
+}
+h1{
+    color: #8cdae9;
+}

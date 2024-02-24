@@ -1,0 +1,17 @@
+body{
+    background-image: url("about_me.avif");
+    background-size: 1100px;
+}
+section{
+    padding: 150px 15% 0;
+}
+h2{
+    color:rgb(59, 12, 42);
+    padding: 000px 20% 0;
+}
+pre{
+    font-size:100%;
+    font-weight: 600;
+    color:rgb(30, 2, 188);
+    font-family:'Times New Roman', Times, serif ;
+}
